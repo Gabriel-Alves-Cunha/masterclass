@@ -7,7 +7,7 @@
     "bull": "^3.13.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "nodemailer": "^6.4.4"
+    "nodemailer": "^6.4.16"
   },
   "scripts": {
     "dev": "npm-run-all -p dev:*",
